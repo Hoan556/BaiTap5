@@ -68,9 +68,8 @@ Cơ sở dữ liệu của hệ thống quản lý quán cafe
 3.Viết trigger cho bảng chi tiết phiếu xuất để đạt được mục tiêu
 Bấm vào dấu "+" của bảng chi tiết phiếu xuất và chuột phải vào trigger rồi ấn new trigger
 ![image](https://github.com/user-attachments/assets/51c8fea1-7800-4f64-932b-dc427d58a10d)
-# Trigger tự động tính tổng tiền và cảnh báo tiển vượt >10Tr
--Ở đoạn code tính tổng tiền này có mục tiêu là tự động tính lại tổng số tiền của các phiếu xuất mỗi khi nó thay đổi, để phục vụ cho kiểm tra, giám sát hoặc các bước xử lý sau như cảnh báo, giúp cho hệ thống quản lý chạy mượt và chính xác hơn.
-![image](https://github.com/user-attachments/assets/a3a101ec-b545-4e0b-a2ec-09debe6e5b6a)
-_Kết luận về Trigger đã giúp gì cho đồ án của em.
+# Trigger Cảnh báo tình trạng đặt bàn
 
-2 Trigger này giúp cho em có thể tự động tính cho mỗi phiếu xuất mỗi khi dữ liệu chi tiết bị thay đổi và nó hạn chế việc sai khi khi tính thủ công, cũng như tăng hiệu quả xử lý , không cần lưu trường tổng tiền vào trong bảng chính. Ngoài ra nó còn có thể cảnh báo khi số tiền vượt quá ngưỡng 10 triệu VNĐ, từ đó sẽ ghi lại log để theo dõi.Và nó còn kiểm soát các giao dịch lớn và phát hiện bất thường.
+
+![image](https://github.com/user-attachments/assets/a3a101ec-b545-4e0b-a2ec-09debe6e5b6a)
+
