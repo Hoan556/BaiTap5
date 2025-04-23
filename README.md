@@ -64,7 +64,7 @@ Cơ sở dữ liệu của hệ thống quản lý quán cafe
 # B. Nội dung Bài tập 05:
 
 1.Tạo csdl cho hệ thống quản lý quám cafe
-2.Bổ sung thêm trường phi chuẩn: Tính tổng số tiền và cảnh báo sô tiền vượt >10tr
+2.Bổ sung thêm trường phi chuẩn: cảnh báo tình trạng đặt bàn
 3.Viết trigger cho bảng chi tiết phiếu xuất để đạt được mục tiêu
 Bấm vào dấu "+" của bảng chi tiết phiếu xuất và chuột phải vào trigger rồi ấn new trigger
 ![image](https://github.com/user-attachments/assets/51c8fea1-7800-4f64-932b-dc427d58a10d)
