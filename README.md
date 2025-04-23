@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec6ebff8-2b70-4e79-a205-2595429e47d8)# BaiTap5
+
 Bài tập 5 của sv: nguyễn Văn Hoan MSV:k2225480106023_Hệ Quản Trị CSDL
 # A. Trình bày lại đầu bài của đồ án PT&TKHT:
 
