@@ -72,4 +72,7 @@ Bấm vào dấu "+" của bảng chi tiết phiếu xuất và chuột phải v
 
 
 ![image](https://github.com/user-attachments/assets/a3a101ec-b545-4e0b-a2ec-09debe6e5b6a)
+ # kết quả đạt được 
+ ![Annotation 2025-04-23 180154](https://github.com/user-attachments/assets/cb6914b7-d14c-4b62-8381-62d80d32bb57)
+
 
